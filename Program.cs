@@ -37,6 +37,7 @@ namespace Manip.Arq
             {
                 Console.WriteLine("Error");
                 Console.WriteLine(e.Message);
+                //Ao existir o arquivo exibir uma mensagem de erro.
 
             }
 
